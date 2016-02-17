@@ -1,0 +1,10 @@
+//Arjun C. Araneta
+//more-codes.com
+//Write a Program that has function which accepts two strings then
+//returns the concatenated version. 
+
+def PrintStrings(strWord1, strWord2):
+	strNewWord = strWord1 + " " + strWord2
+	return strNewWord
+
+print PrintStrings("Hello", "World")
