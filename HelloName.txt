@@ -1,0 +1,16 @@
+/*
+Arjun C. Araneta
+more-codes.com
+
+Write a program that has a function that accepts a name and concatenates 
+it to "Hello ". 
+
+Output:
+
+Hello Mark
+*/
+
+def PrintHello(strName):
+	print "Hello ", strName
+	
+PrintHello("Mark")
