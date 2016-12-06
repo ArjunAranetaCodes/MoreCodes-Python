@@ -1,0 +1,9 @@
+#Write a program that checks if the string contains all digits using Regular Expression.
+
+import re
+
+value = "12345"
+
+matches = re.match("\d+", value)
+
+print(matches.group())
