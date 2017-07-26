@@ -1,5 +1,5 @@
 # MoreCodes- Python Programming Problems
-This repository is for Python codes of my blog: https://more-codes.com/
+This repository is for Python codes of my blog: http://more-codes.com/
 
 - - - -
 ### Python Programming Loops Problems
