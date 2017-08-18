@@ -1,8 +1,8 @@
 
-array1 = [1,2,3]
-array2 = [1,2,3]
+list1 = [1,2,3]
+list2 = [1,2,3]
 
-array1.append(array2)
-print(array1)
+list1.append(list2)
+print(list1)
 
 

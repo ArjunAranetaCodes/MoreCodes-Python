@@ -1,9 +1,9 @@
 
-array1 = [1,2,3]
-array2 = [1,2,3]
+list1 = [1,2,3]
+list2 = [1,2,3]
 
-if array1 == array2:
- print("Equal Arrays")
+if list1 == list2:
+ print("Equal Lists")
 else:
  print("Not Equal")
 

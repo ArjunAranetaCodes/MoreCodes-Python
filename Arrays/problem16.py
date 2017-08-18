@@ -1,7 +1,7 @@
 
-arrNumbers = [1,2,3]
-arrNumbers.remove(2)
+lstNumbers = [1,2,3]
+lstNumbers.remove(2)
 
-print(arrNumbers)
+print(lstNumbers)
 
 

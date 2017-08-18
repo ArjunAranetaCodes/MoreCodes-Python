@@ -1,7 +1,7 @@
 
-array1 = [1,2,3]
-array2 = array1
+list1 = [1,2,3]
+list2 = list1
 
-print(array2)
+print(list2)
 
 

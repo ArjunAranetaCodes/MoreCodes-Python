@@ -1,5 +1,5 @@
 
-arrNumbers = [1,2,3]
-print(arrNumbers.index(2))
+lstNumbers = [1,2,3]
+print(lstNumbers.index(2))
 
 

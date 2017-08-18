@@ -1,6 +1,6 @@
 
-arrNumbers = [1,2,3]
-arrNumbers.reverse()
-print(arrNumbers)
+lstNumbers = [1,2,3]
+lstNumbers.reverse()
+print(lstNumbers)
 
 

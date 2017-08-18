@@ -1,8 +1,8 @@
 
-arrNumbers = [1,3,2,4]
-arrNumbers.sort()
-arrNumbers.reverse()
+lstNumbers = [1,3,2,4]
+lstNumbers.sort()
+lstNumbers.reverse()
 
-print(arrNumbers)
+print(lstNumbers)
 
 

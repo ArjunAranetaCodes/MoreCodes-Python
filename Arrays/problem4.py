@@ -1,6 +1,6 @@
 
-arrNumbers = [1,2,3]
-print(arrNumbers[0])
-print(arrNumbers[len(arrNumbers) - 1])
+lstNumbers = [1,2,3]
+print(lstNumbers[0])
+print(lstNumbers[len(lstNumbers) - 1])
 
 

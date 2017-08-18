@@ -1,7 +1,7 @@
 
-arrNumbers = [1,2,3]
+lstNumbers = [1,2,3]
 count = 0
-for num in arrNumbers:
+for num in lstNumbers:
  if num == 2:
   count = count + 1
 
