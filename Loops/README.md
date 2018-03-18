@@ -8,7 +8,7 @@ Join Us on Youtube! <br/>
 <i><u>https://www.youtube.com/channel/UCK8YsKv4-N6ItZfzEyKlI6A/featured</u></i>
 </p>
 
-- - - -
+- - - - 
 ### [Python Loops Programming Problems](../Loops/) <- Click to go to Loop Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Loops/problem1.py" target="_blank">Write a program that prints the numbers from 1 to 50. Output "Fizz" for multiples of 3, output "Buzz" for multiples of 5, and bot "FizzBuzz" for multiples of both 3 and 5.</a>
