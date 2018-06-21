@@ -11,7 +11,7 @@ Join Us on Youtube! <br/>
 #
 
 # MoreCodes- Python Programming Problems
-Computer Programming Problems and Solutions with the Python Language
+Computer Programming Problems and Solutions with the Python Programming Language
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics1.py" target="_blank">Basic Output</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Go/blob/master/Basics2.py" target="_blank">Variables</a>
